@@ -4,7 +4,8 @@ using Unity.Collections;
 using Unity.Jobs;
 using Unity.Mathematics;
 using UnityEngine;
-using UnityEngine.Experimental.ParticleSystemJobs;
+// using UnityEngine.Experimental.ParticleSystemJobs;
+using UnityEngine.ParticleSystemJobs;
 
 // Ideally you really would use something like ECS to visualize the point cloud
 // And query from a job component system
